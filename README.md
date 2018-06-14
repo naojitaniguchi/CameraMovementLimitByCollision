@@ -1,3 +1,5 @@
-[![Rotation Sample](http://img.youtube.com/vi/R-KeoyL8msc/0.jpg)](http://www.youtube.com/watch?v=R-KeoyL8msc)
+[![Rotation Sample](http://img.youtube.com/vi/FVcKQH_2n54/0.jpg)](http://www.youtube.com/watch?v=FVcKQH_2n54)
+![collider](./CameraLimit.png)
 
-RayCast Layer Mask  Sample for Unity.
+Limiting camera movement  by collision .
+Camera follows red box , and camera movement is limited by box collider which is not renderd .
